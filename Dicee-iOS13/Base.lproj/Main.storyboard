@@ -53,8 +53,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="diceImageView1" destination="OKE-TB-oqC" id="KQ5-OO-bMS"/>
-                        <outlet property="diceImageView2" destination="IVd-2D-h8J" id="IPM-WO-Y4B"/>
+                        <outlet property="diceImageView1" destination="OKE-TB-oqC" id="KLS-3P-hE5"/>
+                        <outlet property="diceImageView2" destination="IVd-2D-h8J" id="ckM-iz-19Q"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
